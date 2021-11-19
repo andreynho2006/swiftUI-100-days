@@ -11,7 +11,7 @@
 * - the value we’re assigning is the text “Hello, playground”. Notice that text is written inside double quotes, so that Swift can see where the text starts and where it ends.
 * - if you don’t ever want to change a value, you need to use a constant instead. Creating a constant works almost identically to creating a variable, except we use let rather than var.
 
-![Alt text](/.../img/img1.jpg)
+![Alt text]("https://github.com/andreynho2006/swiftUI-100-days/blob/main/day1/img/img1.png")
 
 ### Variables are a great way to store temporary data in your programs, but Swift gives us a second option that’s even better: constants. They are identical to variables in every way, with one important difference: we can’t change their values once they are set.
 ### Swift really loves constants, and in fact will recommend you use one if you created a variable then never changed its value. The reason for this is about avoiding problems: any variable you create can be changed by you whenever you want and as often as you want, so you lose some control – that important piece of user data you stashed away might be removed or replaced at any point in the future.
