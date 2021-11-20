@@ -2,4 +2,4 @@
 
 ## Booleans
 
-![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day1/img/img1.png)
+![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day2/img/img1.png)
