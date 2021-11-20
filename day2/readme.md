@@ -7,3 +7,7 @@
 ## Join strings together
 
 ![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day2/img/img2.png)
+
+## Checkpoint 1
+
+![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day2/img/img3.png)

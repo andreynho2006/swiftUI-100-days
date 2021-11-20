@@ -51,3 +51,4 @@ let number1 = 11
 let missionMessage1 = "Apollo " + String(number1) + " landed on the moon."
 let missionMessage2 = "Apollo \(number1) landed on the moon."
 print("5 x 5 is \(5 * 5)")
+
