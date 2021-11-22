@@ -121,3 +121,38 @@ archEnemies["Batman"] = "The Joker"
 archEnemies["Superman"] = "Lex Luthor"
 
 archEnemies["Batman"] = "Penguin"
+
+// use sets for fast data lookup
+
+let people1 = Set(["Denzel Washington", "Tom Cruise", "Nicolas Cage", "Samuel L Jackson"])
+
+print(people1)
+
+var people = Set<String>()
+people.insert("Denzel Washington")
+people.insert("Tom Cruise")
+people.insert("Nicolas Cage")
+people.insert("Samuel L Jackson")
+
+print(people1)
+
+// Create and use enums
+enum Weekday {
+    case monday
+    case tuesday
+    case wednesday
+    case thursday
+    case friday
+}
+print(Weekday.tuesday)
+print(Weekday.friday)
+var day = Weekday.monday
+day = Weekday.tuesday
+day = Weekday.friday
+var day1 = Weekday.monday
+day1 = .tuesday
+print(day1)
+day1 = .friday
+print(day1)
+// Swift knows that .tuesday must refer to Weekday.tuesday because day must always be some kind of Weekday.
+// Although it isn’t visible here, one major benefit of enums is that Swift stores them in an optimized form – when we say Weekday.monday Swift is likely to store that using a single integer such as 0, which is much more efficient to store and check than the letters M, o, n, d, a, y.
