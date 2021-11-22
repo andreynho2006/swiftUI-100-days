@@ -5,3 +5,9 @@
 ![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day3/img/img1.png)
 
 ![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day3/img/img2.png)
+
+## Store and find data in dictionaries
+
+![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day3/img/img3.png)
+
+![Alt text](https://github.com/andreynho2006/swiftUI-100-days/blob/main/day3/img/img4.png)
