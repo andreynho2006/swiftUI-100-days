@@ -1,4 +1,4 @@
-# 100 days of SwiftUI - DAY 2
+# 100 days of SwiftUI - DAY 3
 
 ## store ordered data in arrays
 
